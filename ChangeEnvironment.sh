@@ -1,0 +1,2 @@
+cp /home/ray/Where2comm/easy-install.pth /home/ray/miniforge3/envs/opencood/lib/python3.7/site-packages/easy-install.pth
+cp /home/ray/Where2comm/OpenCOOD.egg-link /home/ray/miniforge3/envs/opencood/lib/python3.7/site-packages/OpenCOOD.egg-link

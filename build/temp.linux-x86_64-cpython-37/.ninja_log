@@ -1,0 +1,12 @@
+# ninja log v5
+1	1880	1700209819769712305	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/iou3d_nms/src/iou3d_nms_kernel.o	d8ae5939bffb97d5
+1	13011	1700209830890042585	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/iou3d_nms/src/iou3d_cpu.o	668f30acec4c9c23
+1	13207	1700209831086048420	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/iou3d_nms/src/iou3d_nms.o	af7c8902a396e54
+1	14985	1700209832858101188	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/iou3d_nms/src/iou3d_nms_api.o	5219c980e0c8a1de
+5	546	1700209833950133723	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/roiaware_pool3d/src/roiaware_pool3d_kernel.o	da1051eb2803750f
+5	14455	1700209847842548653	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/roiaware_pool3d/src/roiaware_pool3d.o	9afbd676b3e7c277
+3	16579	1700209864929086284	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/pointnet2/pointnet2_stack/src/pointnet2_api.o	4a3205df7d653535
+2	25097	1700209873459043091	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/pointnet2/pointnet2_stack/src/ball_query_gpu.o	29c106238751eab4
+2	25348	1700209873710984740	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/pointnet2/pointnet2_stack/src/group_points_gpu.o	8109ecb14cce0535
+3	25463	1700209873822958807	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/pointnet2/pointnet2_stack/src/interpolate_gpu.o	d6197e5339864d4c
+3	25956	1700209874318844523	/home/ray/Where2comm/build/temp.linux-x86_64-cpython-37/opencood/pcdet_utils/pointnet2/pointnet2_stack/src/sampling_gpu.o	332fc146cc179c2c
